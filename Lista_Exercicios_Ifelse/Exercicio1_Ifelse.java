@@ -3,18 +3,19 @@
 // Se o número for maior que 20: calcular e imprimir a metade dele.
 
 import java.util.Scanner;
+
 public class Exercicio1_Ifelse {
 
-    public static void main (String [] args){
-        Scanner entrada = new Scanner (System.in);
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
 
         System.out.println("Digite um número inteiro: ");
 
         double numero = entrada.nextInt();
-        if (numero>20){
-                double metade = numero/2;
-                System.out.println("A metade desse número é: " + metade);
+        if (numero > 20) {
+            double metade = numero / 2;
+            System.out.println("A metade desse número é: " + metade);
         }
-    entrada.close();
-        }
+        entrada.close();
+    }
 }
