@@ -14,7 +14,7 @@ public class Exercicio1_Ifelse {
         double numero = entrada.nextInt();
         if (numero > 20) {
             double metade = numero / 2;
-            System.out.println("A metade desse número é: " + metade);
+            System.out.println("A metade desse número é: " + metade + ".");
         }
         entrada.close();
     }
