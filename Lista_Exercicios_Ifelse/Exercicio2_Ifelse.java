@@ -1,5 +1,5 @@
 // Henrique de Oliveira Favarão - RA: 12526211995
-// Faça um algoritmo que receba a idade de uma pessoa;
+// Exercício 2: Faça um algoritmo que receba a idade de uma pessoa;
 // sefor maior de idade imprima: “maior de idade”;
 // senão imprima: “menor de idade”.
 
@@ -12,7 +12,7 @@ public class Exercicio2_Ifelse {
 
         System.out.println("Digite sua idade: ");
 
-        double idade = entrada.nextInt();
+        int idade = entrada.nextInt();
         if (idade >= 18) {
             System.out.println("Maior de idade.");
         }

@@ -11,9 +11,9 @@ public class Exercicio1_Ifelse {
 
         System.out.println("Digite um número inteiro: ");
 
-        double numero = entrada.nextInt();
+        int numero = entrada.nextInt();
         if (numero > 20) {
-            double metade = numero / 2;
+            double metade = numero / 2.0;
             System.out.println("A metade desse número é: " + metade + ".");
         }
         entrada.close();
