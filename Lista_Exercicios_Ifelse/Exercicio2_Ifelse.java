@@ -1,4 +1,4 @@
-// Henrique de Oliveira Favarão - RA: 12526211995
+// Nome: Henrique de Oliveira Favarão - RA: 12526211995
 // Exercício 2: Faça um algoritmo que receba a idade de uma pessoa;
 // sefor maior de idade imprima: “maior de idade”;
 // senão imprima: “menor de idade”.
