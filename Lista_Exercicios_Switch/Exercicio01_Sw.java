@@ -1,5 +1,5 @@
-// Henrique de Oliveira Favarão - 12526211995
-// Crie um algoritmo que leia um número de 1 a 7.
+// Nome: Henrique de Oliveira Favarão - RA: 12526211995
+// Exercício 1: Crie um algoritmo que leia um número de 1 a 7.
 // imprima o dia da semana correspondente;
 // assuma que 1 corresponde ao Domingo.
 
